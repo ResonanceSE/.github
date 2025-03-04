@@ -6,8 +6,6 @@ Resonance is a collaborative software engineering project built with Nuxt on the
 
 ## 👨‍💻 Team Members
 
-## 👥 Team Members
-
 | Name | Role | GitHub |
 |------|------|--------|
 | Prem | Project Manager | [@premnacup](https://github.com/premnacup) |
