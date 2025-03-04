@@ -18,7 +18,7 @@ Resonance is a collaborative software engineering project built with Nuxt on the
 
 ### Branch Strategy
 - `main` - Production-ready code
-- `devs` - Devleopement code
+- `devs` - Development code
 
 ### Pull Request Process
 1. Create branch from `devs`
