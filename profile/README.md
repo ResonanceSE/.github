@@ -10,9 +10,9 @@ Resonance is a collaborative software engineering project built with Nuxt on the
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Prem | Frontend Developer | [@premnacup](https://github.com/premnacup) |
-| Ohm | Backend Developer | [@KKhamwiset](https://github.com/KKhamwiset) |
-| Brick | Project Manager | [@EnterpriseA1](https://github.com/EnterpriseA1) |
+| Prem | Project Manager | [@premnacup](https://github.com/premnacup) |
+| Ohm | Frontend Developer | [@KKhamwiset](https://github.com/KKhamwiset) |
+| Brick | Backend Developer | [@EnterpriseA1](https://github.com/EnterpriseA1) |
 
 ## 🔄 Development Workflow
 
