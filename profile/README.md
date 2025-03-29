@@ -20,7 +20,7 @@ Resonance is a collaborative software engineering project built with Nuxt on the
 - `devs2` - Development code ( Back End )
 
 ### Pull Request Process
-1. Create branch from `devs`
+1. Create branch from `devs` / `devs2`
 2. Complete your work with appropriate commits
 3. Submit PR to `development`
 4. Require appoval from PM
